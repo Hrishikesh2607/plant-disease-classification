@@ -20,7 +20,7 @@ access to agricultural experts.
 
 ## 📊 Dataset
 - New Plant Diseases Dataset (Kaggle)
-- ~1,40,000 images
+- ~87,000 images
 - 38 plant disease classes
 
 ---
